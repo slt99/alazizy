@@ -9,8 +9,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/amortmusic",
-    "repository": "https://github.com/Braco123M/music",
-    "success_url": "https://github.com/slt99/alazizy",
+    "repository": "https://github.com/slt99/alazizy",
+    "success_url": "https://github.com/slt99",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
