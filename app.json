@@ -1,68 +1,68 @@
 {
     "name": "Video x Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/19d68d531fd2f6f96e368.jpg",
+    "logo": "https://telegra.ph/file/8e3620165ec9b1e1569fe.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/BANDA1M",
-    "repository": "https://github.com/mostafaaziza/alazizy",
-    "success_url": "https://t.me/hama_refaat",
+    "website": "https://t.me/amortmusic",
+    "repository": "https://github.com/Braco123M/music",
+    "success_url": "https://github.com/slt99/alazizy",
     "env": {
         "API_ID": {
-            "description": "قم بوضع الايبي ايدي هنا",
+            "description": "your API_ID from my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "قم بوضع الايبي هاش",
+            "description": "your API_HASH from my.telegram.org",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "قم بوضع توكن البوت الخاص بك هنا",
+            "description": "your bot token from @BotFather",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "your bot username from @BotFather",
             "required": true
         },
         "BOT_NAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "fill with your bot name from @BotFather",
             "required": true
         },
         "ASSISTANT_NAME": {
-            "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
+            "description": "fill with the assistant username account without @",
             "required": true
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "fill with the pyrogram String Session",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "قم بوضع ايدي المطور الاساسي",
+            "description": "list of user ids to be added to sudo member list, or just fill with your id",
             "required": true
         },
         "GROUP_SUPPORT": {
-            "description": "ضع هنا يوزر جروبك بدون علامة @",
+            "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "BANDA2M"
+            "value": "wtan778"
         },
         "UPDATES_CHANNEL": {
-            "description": "ضع هنا يوزر قناتك بدون علامة @",
+            "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "BANDA1M"
+            "value": "soltansh1"
         },
         "OWNER_NAME": {
-            "description": "ضع هنا يوزر المطور بدون علامة @",
+            "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "php_7"
+            "value": "Slt55"
         },
         "ALIVE_NAME": {
-            "description": "اتركها كما هي",
+            "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "mostafa_alazizy..🎶"
+            "value": "𝙼𝚄𝚂𝙸𝙲..🎶"
         }
     },
     "addons": [],
