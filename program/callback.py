@@ -46,6 +46,7 @@ async def cbstart(_, query: CallbackQuery):
                 [
                     InlineKeyboardButton(
                         "ٱررـوٌٱٱحً𓆩࿇͜͡𓆪هـــ࿇͜͡ـائـ𓆩࿇͜͡𓆪ـمة🥺💛🍂،!", url="https://t.me/soltansh1"
+                    )
                 ],
             ]
         ),
@@ -68,7 +69,7 @@ async def cbguides(_, query: CallbackQuery):
 
  💡 إذا كانت لديك أسئلة  حول هذا البوت ، فيمكنك إخبارنا منن خلال قروب الدعم الخاصة بي هنا ↤ @{GROUP_SUPPORT}
 
- ⚡ الشمري   @soltansh1
+ ⚡ الشمري ابو عامر @Slt55
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 رجوع", callback_data="cbstart")]]
